@@ -80,3 +80,17 @@ Implementamos uma estrutura simples de blockchain usando TypeScript. Vamos anali
 6. **Console Logging:**
    O código contém instruções `console.log` para fornecer informações sobre a criação e mineração de blocos.
 
+# Imagens do Projeto Rodando
+
+![](https://imgur.com/jQnilla.png)
+![](https://imgur.com/vF0dkfm.png)
+
+# Direitos Autorais
+
+© 2023 **Alvaro Eduardo Silva**. Todos os direitos reservados.
+
+Este projeto é protegido por direitos autorais e destinado apenas para fins educacionais e de desenvolvimento. Qualquer uso não autorizado, reprodução ou distribuição sem a permissão expressa do autor é estritamente proibido.
+
+---
+
+Agradecemos por respeitar os direitos autorais e contribuir para a comunidade de desenvolvimento! 📚✨
